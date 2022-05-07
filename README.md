@@ -50,7 +50,8 @@ Gaussian NB | %21 | 1.2 kB | %27
 SVM | %15 | 88,2 kB | %16
 Random Forest Classifier | %20 | 4,8 MB | %29
 KNeighbors Classifier | %19 | 49.9 MB | %21 
-K-Means | %38 | - | -
+K-Means | %52 | - | -
+K-Means for signal accuracy | %38
 
 ## Random Forest
 Pros: Highest accuracy for that case. 
